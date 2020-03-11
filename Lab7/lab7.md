@@ -37,7 +37,7 @@
 <p text align="center">Рис. 1. Создание консольного приложения C++ в IDE Qt Creator без использования Qt <p/>
 <br/>
 Следующий шаг это выбрать "консольное приложение С++ в IDE Qt Creator без использования компонентов Qt", сделать это нужно так: <br><br/>
-<img src="Screenshots lab7/Screenshot_4.jpg">
+<img src="Screenshots lab7/Screenshot_3.jpg">
 <p text align="center">Рис. 2. выбор консольного приложения С++ в IDE Qt Creator без использования компонентов Qt<p/>
 Далее указываем имя проекта:<br><br/>
 <img src="Screenshots lab7/Screenshot_2.jpg">
